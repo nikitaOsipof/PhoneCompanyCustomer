@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36429.23 d17.14
+VisualStudioVersion = 17.14.36429.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneCompanyCustomer", "PhoneCompanyCustomer\PhoneCompanyCustomer.csproj", "{BF26300F-4260-4CF9-B01B-4C6854390FC9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Telecommunication01", "Telecommunication01\Telecommunication01.csproj", "{3F9B958E-7DB0-4FE1-AEBB-C874D9CE94A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Telecommunication02", "Telecommunication02\Telecommunication02.csproj", "{BB886D80-60B7-4C04-8285-309AA3AEE101}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{3F9B958E-7DB0-4FE1-AEBB-C874D9CE94A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F9B958E-7DB0-4FE1-AEBB-C874D9CE94A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F9B958E-7DB0-4FE1-AEBB-C874D9CE94A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB886D80-60B7-4C04-8285-309AA3AEE101}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB886D80-60B7-4C04-8285-309AA3AEE101}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB886D80-60B7-4C04-8285-309AA3AEE101}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB886D80-60B7-4C04-8285-309AA3AEE101}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
