@@ -21,7 +21,9 @@ namespace Telecommunication01
         /// <summary>
         /// Обрабатывется звонки клиента и уменьшается баланс
         /// </summary>
-        /// <param name="callType">Тип звонка</param>
+        /// <param name="cp">Тип звонка</param>
+        /// <param name="minutes">Тип звонка</param>
+        /// <param name="balance">Тип звонка</param>
         public static double RecordCall(callType cp, int minutes, double balance)
         {
             // if и меняем баланс
